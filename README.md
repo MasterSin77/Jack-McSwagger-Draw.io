@@ -1,6 +1,16 @@
-# Jack-McSwagger-Draw.io
+# Choose your own adventure with Draw.io
 
-Choose your own adventure. 
+# You are Jack McSwagger, one of the galaxies hottest mega stars. 
+
+Known throughout the universe as a ladies man, and dynamo in bed, 
+you are the epitome of all things sexy male. 
+
+You just finished filming a new movie and you are brimming with confidence. 
+You are sitting at the bar having a few drinks when your date walks in. 
+
+What should you do?
+
+
 
 Jack McSwagger needs your help. Take him to outrageous heights and funny or stupid lows. You make the choices and craft the results. 
 
